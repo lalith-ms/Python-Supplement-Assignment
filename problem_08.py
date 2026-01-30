@@ -1,4 +1,4 @@
- Problem 8: Check if a string is palindrome
+#Check if a string is palindrome
 # Find and fix the error
 #
 def is_palindrome(text):
@@ -6,6 +6,6 @@ def is_palindrome(text):
 
 word = "Racecar"
 if is_palindrome(word):
-    print(f"{word} is a palindrome")
-else:
     print(f"{word} is not a palindrome")
+else:
+    print(f"{word} is  a palindrome")
