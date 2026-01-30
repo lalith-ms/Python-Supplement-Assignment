@@ -7,3 +7,4 @@ def are_anagrams(str1, str2):
 word1 = "Listen"
 word2 = "Silent"
 print(f"Are anagrams: {are_anagrams(word1, word2)}")
+#no error
